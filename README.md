@@ -15,12 +15,5 @@ npm start
 
 Your app should now be running on [localhost:5000](http://localhost:5000/).
 
-## Deploying to bhushangholve2006
-
-```
-bhushangholve2006 create
-git push bhushangholve2006 master
-bhushangholve2006 open
-```
 
 
